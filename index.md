@@ -1,6 +1,6 @@
 ## Welcome to Angela's Homepage!
 
-You can use the [editor on GitHub](https://github.com/angelazc/angelazc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Let's see when I am gonna use this to update my project...
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
